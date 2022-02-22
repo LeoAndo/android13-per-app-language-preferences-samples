@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">KotlinSample</string>
+    <string name="app_name" translatable="false">KotlinSample</string>
+    <string name="hello_text">Hello World!</string>
 </resources>
