@@ -3,6 +3,8 @@ Per-app language preferences (Android 13+)<br>
 https://developer.android.com/about/versions/13/features#app-languages<br>
 https://developer.android.com/about/versions/13/features/app-languages<br>
 
+[If you have any questions, please contact discussions](https://github.com/LeoAndo/android-per-app-language-preferences-samples/discussions)
+
 # API
 https://developer.android.com/reference/android/app/LocaleManager#getApplicationLocales()<br>
 https://developer.android.com/reference/android/app/LocaleManager#setApplicationLocales(android.os.LocaleList)<br>
