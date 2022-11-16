@@ -14,4 +14,6 @@ setApplicationLocalesでアプリ内の言語設定を行えば、端末の言�
 
 # capture OS 13
 
+## Captureしてませんが、OS13未満のデバイスでも動作します！
+
 <img src="https://github.com/LeoAndo/android-per-app-language-preferences-samples/blob/main/capture.gif" width=320 />
